@@ -1,0 +1,7 @@
+{
+    "/*":{
+        "target":"https://shilpaheidi.github.io/empty-json/db.json",
+        "secure":false,
+        "logLevel": "debug"
+    }
+}

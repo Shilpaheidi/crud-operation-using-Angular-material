@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "ss",
+      "lastName": "sss",
+      "email": "ssss",
+      "dob": "2023-10-07T18:30:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "sss",
+      "experience": "3",
+      "package": "1",
+      "id": 3
+    },
+    {
+      "firstName": "dddddddd",
+      "lastName": "dd",
+      "email": "ddddd",
+      "dob": "2023-10-09T18:30:00.000Z",
+      "gender": "female",
+      "education": "Intermediate",
+      "company": "dddd",
+      "experience": "3",
+      "package": "2",
+      "id": 4
+    },
+    {
+      "firstName": "shilpa",
+      "lastName": "sss",
+      "email": "shilpaheidi777@gmail.com",
+      "dob": "2023-10-03T18:30:00.000Z",
+      "gender": "female",
+      "education": "Intermediate",
+      "company": "MCA",
+      "experience": "222",
+      "package": "222",
+      "id": 5
+    },
+    {
+      "firstName": "shuk",
+      "lastName": "sss",
+      "email": "shilpaheidi777@gmail.com",
+      "dob": "2023-10-03T18:30:00.000Z",
+      "gender": "female",
+      "education": "Intermediate",
+      "company": "MCA",
+      "experience": "222",
+      "package": "222",
+      "id": 6
+    },
+    {
+      "firstName": "dddd",
+      "lastName": "dddddddddd",
+      "email": "shilpaheidi777@gmail.com",
+      "dob": "2023-10-10T18:30:00.000Z",
+      "gender": "female",
+      "education": "Intermediate",
+      "company": "MCA",
+      "experience": "2",
+      "package": "2",
+      "id": 7
+    }
+  ]
+}
